@@ -5,9 +5,10 @@ import parsecsv  # скорее всего не пригодится
 import asyncdispatch
 import asyncfile
 import random
+import unittest
 import times
 
-const MAX_DELAY = 5
+const DELAY = 5
 const MILISEC = 1000
 randomize()
 
@@ -24,7 +25,7 @@ proc readCSV(filename: string): Future[seq[JsonNode]] {.async.} =
   ## и упаковывает их в последовательность Json-нод.
   ## Многопоточную версию необходимо подправить под асинхронность,
   ## так как в противном случае тест не будет пройден.
-  await sleepAsync(rand(MAX_DELAY * MILISEC))  # имитация больших данных
+  await sleepAsync(rand(DELAY * MILISEC))  # имитация больших данных
   # реализуйте обработку CSV в асинхронном режиме. В лекции такое было.
 
 
@@ -43,7 +44,11 @@ proc main() {.async.} =
 
 
 when isMainModule:
-  assert walkFiles("data" / "*.csv").toSeq.len != 0
+  test "Base configuration":
+    check walkFiles("data" / "*.txt").toSeq.len == 0
+    check walkFiles("data" / "*.csv").toSeq.len == 9
   let start = now()
   waitFor main()
-  assert now() - start < initDuration(seconds=MAX_DELAY)
+  test "FInish":
+    check now() - start < initDuration(seconds=DELAY)
+    check walkFiles("data" / "*.json").toSeq.len == 9
