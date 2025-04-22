@@ -44,11 +44,12 @@ proc main() {.async.} =
 
 
 when isMainModule:
-  test "Base configuration":
+  test "Looking data dir":
     check walkFiles("data" / "*.txt").toSeq.len == 0
     check walkFiles("data" / "*.csv").toSeq.len == 9
   let start = now()
   waitFor main()
-  test "FInish":
+  test "Check delay":
     check now() - start < initDuration(seconds=DELAY)
+  test "JSON in data dir":
     check walkFiles("data" / "*.json").toSeq.len == 9
