@@ -1,0 +1,52 @@
+[
+    {
+        "number": "1",
+        "free": "1",
+        "totalCash": "3690"
+    },
+    {
+        "number": "2",
+        "free": "1",
+        "totalCash": "3017"
+    },
+    {
+        "number": "3",
+        "free": "0",
+        "totalCash": "3201"
+    },
+    {
+        "number": "4",
+        "free": "1",
+        "totalCash": "4920"
+    },
+    {
+        "number": "5",
+        "free": "0",
+        "totalCash": "3040"
+    },
+    {
+        "number": "6",
+        "free": "0",
+        "totalCash": "4797"
+    },
+    {
+        "number": "7",
+        "free": "0",
+        "totalCash": "2410"
+    },
+    {
+        "number": "8",
+        "free": "0",
+        "totalCash": "2588"
+    },
+    {
+        "number": "9",
+        "free": "1",
+        "totalCash": "3157"
+    },
+    {
+        "number": "10",
+        "free": "0",
+        "totalCash": "2095"
+    }
+]
