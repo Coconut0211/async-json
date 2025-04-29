@@ -1,0 +1,602 @@
+[
+    {
+        "firstName": "Ryan",
+        "lastName": "Clark",
+        "birthDate": "28.09.1995",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Gracie",
+        "lastName": "Nielsen",
+        "birthDate": "16.09.1976",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Royal",
+        "lastName": "Neal",
+        "birthDate": "08.08.1973",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Stout",
+        "birthDate": "07.06.1978",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Sanford",
+        "lastName": "Clark",
+        "birthDate": "02.05.1975",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Brice",
+        "lastName": "Jefferson",
+        "birthDate": "07.05.1999",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Cassie",
+        "lastName": "Clark",
+        "birthDate": "07.12.2000",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Tisha",
+        "lastName": "Mcdowell",
+        "birthDate": "05.01.1990",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Jonathon",
+        "lastName": "Mullins",
+        "birthDate": "04.12.1990",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Bridges",
+        "birthDate": "18.08.1977",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Carlo",
+        "lastName": "Delgado",
+        "birthDate": "06.05.1988",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Guadalupe",
+        "lastName": "Britt",
+        "birthDate": "18.07.1973",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Gary",
+        "lastName": "Mosley",
+        "birthDate": "19.07.1983",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Camacho",
+        "birthDate": "11.03.1983",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Amie",
+        "lastName": "Warner",
+        "birthDate": "12.12.1977",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Margarita",
+        "lastName": "Snyder",
+        "birthDate": "05.07.1992",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Damion",
+        "lastName": "Evans",
+        "birthDate": "10.09.1986",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Jeannine",
+        "lastName": "Peters",
+        "birthDate": "25.08.1984",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Michele",
+        "lastName": "Wiggins",
+        "birthDate": "17.07.1998",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Katherine",
+        "lastName": "Fitzgerald",
+        "birthDate": "14.04.1985",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Antwan",
+        "lastName": "Lindsey",
+        "birthDate": "28.12.1979",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Wilmer",
+        "lastName": "Scott",
+        "birthDate": "17.09.1994",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Ty",
+        "lastName": "Sellers",
+        "birthDate": "08.04.1978",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Chelsea",
+        "lastName": "Terry",
+        "birthDate": "25.11.1989",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Donovan",
+        "lastName": "Becker",
+        "birthDate": "24.11.1985",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Gordon",
+        "lastName": "Lindsey",
+        "birthDate": "17.05.1976",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Rhonda",
+        "lastName": "Bauer",
+        "birthDate": "25.06.1992",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Bret",
+        "lastName": "Gilliam",
+        "birthDate": "27.07.1978",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Sung",
+        "lastName": "Luna",
+        "birthDate": "21.02.1996",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Randell",
+        "lastName": "Bright",
+        "birthDate": "23.12.1976",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Dewey",
+        "lastName": "Washington",
+        "birthDate": "25.07.1975",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Rhea",
+        "lastName": "Caldwell",
+        "birthDate": "16.08.1970",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Kelli",
+        "lastName": "Cleveland",
+        "birthDate": "26.02.1991",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Edwin",
+        "lastName": "Valencia",
+        "birthDate": "12.07.1981",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Santiago",
+        "lastName": "Ingram",
+        "birthDate": "18.11.1981",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Christie",
+        "lastName": "Hays",
+        "birthDate": "15.10.1998",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Freida",
+        "lastName": "Moran",
+        "birthDate": "22.11.1991",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Candace",
+        "lastName": "Lambert",
+        "birthDate": "14.12.1985",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Robyn",
+        "lastName": "Sutton",
+        "birthDate": "17.08.1993",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Don",
+        "lastName": "Andrews",
+        "birthDate": "09.07.1973",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Carl",
+        "lastName": "Hobbs",
+        "birthDate": "22.11.1973",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Carmela",
+        "lastName": "Davidson",
+        "birthDate": "10.12.1980",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Karl",
+        "lastName": "Benson",
+        "birthDate": "13.12.1998",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Chance",
+        "lastName": "Adkins",
+        "birthDate": "12.10.1998",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Geneva",
+        "lastName": "Maddox",
+        "birthDate": "14.01.1982",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Brittney",
+        "lastName": "Langley",
+        "birthDate": "08.12.1978",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Curtis",
+        "lastName": "Hurley",
+        "birthDate": "19.01.1995",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Jacques",
+        "lastName": "Rosario",
+        "birthDate": "17.05.1974",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Lynda",
+        "lastName": "Franks",
+        "birthDate": "05.03.1976",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Barney",
+        "lastName": "Sargent",
+        "birthDate": "02.08.1988",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Agnes",
+        "lastName": "Cash",
+        "birthDate": "10.05.1985",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Jim",
+        "lastName": "Frost",
+        "birthDate": "28.09.2000",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Maurice",
+        "lastName": "Joyce",
+        "birthDate": "02.11.1998",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Juliana",
+        "lastName": "Rocha",
+        "birthDate": "06.09.1980",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Cedric",
+        "lastName": "Mullins",
+        "birthDate": "05.03.1975",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Latoya",
+        "lastName": "Bryant",
+        "birthDate": "25.10.1975",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Valentin",
+        "lastName": "Walsh",
+        "birthDate": "18.02.1975",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Wyatt",
+        "lastName": "Carney",
+        "birthDate": "22.11.1990",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Jorge",
+        "lastName": "Castillo",
+        "birthDate": "18.07.1992",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Lakisha",
+        "lastName": "Rush",
+        "birthDate": "14.06.2000",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Shaun",
+        "lastName": "Lucas",
+        "birthDate": "27.04.1981",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Sergio",
+        "lastName": "Holt",
+        "birthDate": "24.12.1987",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Nathan",
+        "lastName": "Oneal",
+        "birthDate": "20.06.1988",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Hank",
+        "lastName": "Fuller",
+        "birthDate": "17.11.1972",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Clarence",
+        "lastName": "Wynn",
+        "birthDate": "13.05.1996",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Britney",
+        "lastName": "Daniels",
+        "birthDate": "11.04.1978",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Jacques",
+        "lastName": "Carrillo",
+        "birthDate": "01.10.1989",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Tanner",
+        "lastName": "Sloan",
+        "birthDate": "28.12.1980",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Gloria",
+        "lastName": "Norman",
+        "birthDate": "18.09.1976",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Felipe",
+        "lastName": "Grimes",
+        "birthDate": "23.02.1989",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Dina",
+        "lastName": "Bryant",
+        "birthDate": "20.01.1994",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Denise",
+        "lastName": "Fleming",
+        "birthDate": "20.12.1981",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Alfonzo",
+        "lastName": "Baker",
+        "birthDate": "06.10.1986",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Dixie",
+        "lastName": "Alvarado",
+        "birthDate": "16.11.1985",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Stacie",
+        "lastName": "Strickland",
+        "birthDate": "19.03.1984",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Jamal",
+        "lastName": "Fernandez",
+        "birthDate": "21.03.1999",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Jeremy",
+        "lastName": "Welch",
+        "birthDate": "11.06.1977",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Imelda",
+        "lastName": "Thomas",
+        "birthDate": "20.05.1973",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Milagros",
+        "lastName": "Nash",
+        "birthDate": "02.12.1987",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Freddie",
+        "lastName": "Ingram",
+        "birthDate": "06.07.1995",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Benito",
+        "lastName": "Davidson",
+        "birthDate": "13.11.1979",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "Tabitha",
+        "lastName": "Tucker",
+        "birthDate": "21.01.1982",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Rachael",
+        "lastName": "Moore",
+        "birthDate": "06.09.1972",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Juana",
+        "lastName": "Aguirre",
+        "birthDate": "23.07.1976",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Myron",
+        "lastName": "Weeks",
+        "birthDate": "04.11.1998",
+        "post": "Кассир"
+    },
+    {
+        "firstName": "April",
+        "lastName": "Soto",
+        "birthDate": "09.10.2000",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Palmer",
+        "birthDate": "22.10.1994",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Jasper",
+        "lastName": "Madden",
+        "birthDate": "05.06.1991",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Tommie",
+        "lastName": "Hale",
+        "birthDate": "27.01.1983",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Tasha",
+        "lastName": "Golden",
+        "birthDate": "08.10.1980",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Melanie",
+        "lastName": "Rivers",
+        "birthDate": "25.02.1977",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Mickey",
+        "lastName": "Cash",
+        "birthDate": "05.07.1994",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Sherry",
+        "lastName": "Hayes",
+        "birthDate": "04.08.1978",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Patricia",
+        "lastName": "Montoya",
+        "birthDate": "20.09.1982",
+        "post": "Консультант"
+    },
+    {
+        "firstName": "Marquita",
+        "lastName": "Oneill",
+        "birthDate": "25.11.1984",
+        "post": "Менеджер"
+    },
+    {
+        "firstName": "Osvaldo",
+        "lastName": "Carver",
+        "birthDate": "16.11.1995",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Derick",
+        "lastName": "Henry",
+        "birthDate": "07.12.1989",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Coy",
+        "lastName": "Glass",
+        "birthDate": "11.09.1980",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Beverley",
+        "lastName": "Good",
+        "birthDate": "13.04.1977",
+        "post": "Уборщик"
+    },
+    {
+        "firstName": "Murray",
+        "lastName": "Browning",
+        "birthDate": "25.06.1994",
+        "post": "Менеджер"
+    }
+]

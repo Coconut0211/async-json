@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Adele",
+        "lastName": "Mills",
+        "birthDate": "21.02.1992",
+        "subject": "Биология"
+    },
+    {
+        "firstName": "Ines",
+        "lastName": "Whitaker",
+        "birthDate": "05.04.1998",
+        "subject": "Математика"
+    },
+    {
+        "firstName": "Patrice",
+        "lastName": "Gilmore",
+        "birthDate": "24.09.1970",
+        "subject": "Биология"
+    },
+    {
+        "firstName": "Christy",
+        "lastName": "Stevens",
+        "birthDate": "17.05.1980",
+        "subject": "Биология"
+    },
+    {
+        "firstName": "Darrell",
+        "lastName": "Whitney",
+        "birthDate": "17.07.1997",
+        "subject": "География"
+    },
+    {
+        "firstName": "Jo",
+        "lastName": "Holman",
+        "birthDate": "02.10.1992",
+        "subject": "История"
+    },
+    {
+        "firstName": "Cindy",
+        "lastName": "Sweeney",
+        "birthDate": "22.10.1978",
+        "subject": "История"
+    },
+    {
+        "firstName": "Ali",
+        "lastName": "Meadows",
+        "birthDate": "15.10.1971",
+        "subject": "География"
+    },
+    {
+        "firstName": "Estella",
+        "lastName": "Weaver",
+        "birthDate": "19.06.1970",
+        "subject": "История"
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "Rojas",
+        "birthDate": "17.04.1997",
+        "subject": "География"
+    }
+]

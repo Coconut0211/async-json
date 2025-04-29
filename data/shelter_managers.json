@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Mindy",
+        "lastName": "Clark",
+        "birthDate": "12.07.1980",
+        "post": "Главный Директор"
+    },
+    {
+        "firstName": "Ramon",
+        "lastName": "Carson",
+        "birthDate": "16.03.1980",
+        "post": "Главный Бухгалтер"
+    },
+    {
+        "firstName": "Allan",
+        "lastName": "Bartlett",
+        "birthDate": "25.05.1999",
+        "post": "Главный Ветеринар"
+    },
+    {
+        "firstName": "Marco",
+        "lastName": "Riddle",
+        "birthDate": "19.12.2000",
+        "post": "Ветеринар"
+    },
+    {
+        "firstName": "Lowell",
+        "lastName": "Welch",
+        "birthDate": "27.07.1986",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Jennifer",
+        "lastName": "Chavez",
+        "birthDate": "01.08.1972",
+        "post": "Директор"
+    },
+    {
+        "firstName": "Naomi",
+        "lastName": "Mccormick",
+        "birthDate": "03.11.1992",
+        "post": "Бухгалтер"
+    },
+    {
+        "firstName": "Anibal",
+        "lastName": "Villarreal",
+        "birthDate": "01.01.1972",
+        "post": "Бухгалтер"
+    },
+    {
+        "firstName": "Tyrone",
+        "lastName": "Nielsen",
+        "birthDate": "25.06.2000",
+        "post": "Бухгалтер"
+    },
+    {
+        "firstName": "Kelley",
+        "lastName": "Peters",
+        "birthDate": "08.12.1981",
+        "post": "Бухгалтер"
+    }
+]
